@@ -105,6 +105,6 @@ theme: landscape
 deploy:
   type: git
   #repo: https://gitee.com/tmj1978/tmj1978.gitee.com.git
-  repo: https://gitee.com/tmj1978/tmj1978.git
+  repo: git@github.com:RuleNumber1/RuleNumber1.github.io.git
   #repo: git@gitee.com:tmj1978/tmj1978.gitee.io.git
   branch: master
